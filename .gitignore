@@ -1,0 +1,24 @@
+# Compilação e pacotes
+*.class
+*.jar
+*.war
+*.ear
+
+# Build output
+build/
+target/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# IDE files
+.idea/
+.classpath
+.project
+.settings/
+/bin/
